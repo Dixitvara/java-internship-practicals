@@ -170,5 +170,7 @@ public class ArrList {
         for(int i=0; i < colors.size(); i++){
             System.out.println(colors.get(i));
         }
+
+        System.out.println("Hello world");
     }
 }
